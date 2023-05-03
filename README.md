@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Avoid creating -hub dir without processing images (#8334)

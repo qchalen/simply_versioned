@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Add OBB save_txt feature (#7450)

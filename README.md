@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Update TFLite Docs images (#8605)

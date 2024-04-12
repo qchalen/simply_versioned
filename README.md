@@ -1,1 +1,1 @@
-example Google Colab
+Update Docs language dropdown height (#6927)

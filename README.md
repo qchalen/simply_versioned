@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add PaddlePaddle Docs Integrations Page (#8858)

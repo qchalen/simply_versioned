@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Replace onnx2tf usage from CLI to Python (#8429)

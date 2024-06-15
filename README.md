@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)

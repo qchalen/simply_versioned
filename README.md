@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add distance calculation feature in vision-eye (#8616)

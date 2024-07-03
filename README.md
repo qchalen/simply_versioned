@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Mkdocs updates (#8008)

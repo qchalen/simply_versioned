@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+OBB: Fix plot_images (#7592)

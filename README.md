@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)

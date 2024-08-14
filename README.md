@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Updated SQL Query Plot Code (#8120)

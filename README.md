@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+ultralytics 8.0.229 add model.embed() method (#7098)
